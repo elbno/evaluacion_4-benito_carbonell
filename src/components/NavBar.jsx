@@ -5,7 +5,7 @@ export function Navbar() {
   return (
     <header className="site-header" role="banner">
       <NavLink to="/" className="logo" aria-label="Volver al inicio de Mi Portafolio">
-        ✦ Mi Portafolio
+         Mi Portafolio
       </NavLink>
       <nav className="main-nav" role="navigation" aria-label="Menú Principal">
         <NavLink to="/" className={({ isActive }) => isActive ? "main-nav__link main-nav__link--active" : "main-nav__link"}>

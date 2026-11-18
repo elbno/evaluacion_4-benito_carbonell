@@ -28,4 +28,4 @@ Explicación detallada de la transición técnica y las correcciones aplicadas d
 
 
   ## Nota: 
-  - Para este INVENTARIO.md Se utilizo IA modelo GEMINI(Fast, web) debido a que no recordaba si debia poner el codigo o como era.
+  - Para este INVENTARIO.md Se utilizo IA modelo GEMINI(Fast, pagina web) debido a que no recordaba si debia poner el codigo o como era.
